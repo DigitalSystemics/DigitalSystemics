@@ -1,4 +1,4 @@
-# DigitalSystemic
+# DigitalSystemics
 ### Structural Clarity · Universal Access
 
 Web-powered desktop applications and automated document architectures. Accessibility emerges through reduction, mathematical precision, and deterministic data logic.
